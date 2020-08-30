@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bunnygithubber/gh-pages-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bunnygithubber/gh-pages-react/static/js/main.4b87b63b.chunk.js",
+    "main.js.map": "/bunnygithubber/gh-pages-react/static/js/main.4b87b63b.chunk.js.map",
+    "runtime-main.js": "/bunnygithubber/gh-pages-react/static/js/runtime-main.e70aaa1b.js",
+    "runtime-main.js.map": "/bunnygithubber/gh-pages-react/static/js/runtime-main.e70aaa1b.js.map",
+    "static/js/2.471f3d16.chunk.js": "/bunnygithubber/gh-pages-react/static/js/2.471f3d16.chunk.js",
+    "static/js/2.471f3d16.chunk.js.map": "/bunnygithubber/gh-pages-react/static/js/2.471f3d16.chunk.js.map",
+    "index.html": "/bunnygithubber/gh-pages-react/index.html",
+    "precache-manifest.60e7719296a2dde3756500cd35e9ea11.js": "/bunnygithubber/gh-pages-react/precache-manifest.60e7719296a2dde3756500cd35e9ea11.js",
+    "service-worker.js": "/bunnygithubber/gh-pages-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bunnygithubber/gh-pages-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.471f3d16.chunk.js.LICENSE.txt": "/bunnygithubber/gh-pages-react/static/js/2.471f3d16.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bunnygithubber/gh-pages-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70aaa1b.js",
+    "static/js/2.471f3d16.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4b87b63b.chunk.js"
+  ]
+}
