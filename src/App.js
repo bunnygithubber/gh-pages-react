@@ -10,7 +10,7 @@ function App() {
         <p>
           My Awesome Github page running using React
         </p>
-        <p>- Prenitha Lobo</p>
+        <p>Welcome to Prenitha's world!!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
